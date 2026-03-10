@@ -25,4 +25,4 @@ It's mainly built to help beginners get started and gain hands-on experience wit
 
 ## 🧠 Methodology
 The process in this guide is meant to be followed in order. Each phase builds on the previous one so you can stay organized and not feel overwhelmed.
-1. [🔎 Reconnaissance](methodology/reconnaissance.md)
+1. [🔎 Reconnaissance](methodology/reconnaissance/)
