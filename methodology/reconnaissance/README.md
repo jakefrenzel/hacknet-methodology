@@ -3,6 +3,12 @@
 > [!NOTE]
 > This guide uses the easy difficulty subnet (192.168.147.0/24).
 
+## 📋 Prerequisites
+Before starting, it is recommended to review the following:
+- [Nmap Guide](nmap.md) — covers scan types, modifiers, and output formats
+
+---
+
 ## ⚙️ Setup
 Create a folder structure to keep results organized across all subnets.
 ```bash
