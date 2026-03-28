@@ -26,6 +26,8 @@ This will create the following structure:
 └── advanced/
 </code></pre>
 
+> Scan results will be saved into each of the folders as shown
+
 <details>
   <summary>View a detailed breakdown of the command</summary>
   <br>
