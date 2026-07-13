@@ -32,7 +32,7 @@ This will create the following structure:
   <summary>View a detailed breakdown of the command</summary>
   <br>
   <ul><code>mkdir -p</code> create directories and any missing parent folders</ul>
-  <ul><code>results/</code> root folder for all scan output</ul>
+  <ul><code>nmap/</code> root folder for all scan output</ul>
   <ul><code>{easy,medium,hard,advanced}</code> creates all four subnet folders at once</ul>
 </details>
 
